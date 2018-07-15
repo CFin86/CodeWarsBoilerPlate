@@ -1,0 +1,23 @@
+{
+  "name": "codewarsboilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code for Javascript CodeWars challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFin86/CodeWarsBoilerPlate.git"
+  },
+  "author": "cm Finney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CFin86/CodeWarsBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/CFin86/CodeWarsBoilerPlate#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
