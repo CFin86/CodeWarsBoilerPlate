@@ -1,6 +1,9 @@
 const expect = require('chai').expect;
 const should = require('chai').should();
 const index = require('../index');
+    //if you are writing code in this file and
+    //you are on the master branch you are doing it wrong.
+    //create a new branch you heathen!
 
 describe('Tests for Boilerplate CodeWars Repo', function () {
     describe('nameOfFunction function', function () {
