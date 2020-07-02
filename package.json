@@ -18,6 +18,6 @@
   "homepage": "https://github.com/CFin86/CodeWarsBoilerPlate#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^5.2.0"
+    "mocha": "^8.0.1"
   }
 }
